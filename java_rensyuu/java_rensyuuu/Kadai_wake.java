@@ -45,7 +45,7 @@ class Kadai_wake {
 		for (int a = 1; a < t; a++) {
 			System.out.print("    ");
 			con++;
-		} // ŒŽÅ‰‚Ì—j“ú‘—‚è
+		}
 
 		for (int b = 1; b <= cal.get(Calendar.DAY_OF_MONTH); b++) {
 
