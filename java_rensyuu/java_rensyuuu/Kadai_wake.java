@@ -10,7 +10,7 @@ class Kadai_wake {
 		Calendar cal = Calendar.getInstance();
 		cal.setLenient(false);
 		int t = 0;
-		while (i < 1) {
+		while (i < 2) {
 			System.out.println("”N‚ð“ü—Íi¼—ï‚Å‚¨Šè‚¢‚µ‚Ü‚·j");
 			System.out.println("ŒŽ‚ð“ü—Í");
 
